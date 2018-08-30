@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     -->
+		
+		<wpt lat="41.9249851" lon="-87.6552769">
+			<name>DePaul University - John T. Richardson Library</name>
+		</wpt>
+		
+		<wpt lat="41.9484384" lon="-87.6553327">
+			<name>Wrigley Field</name>
+		</wpt>
+		
+		<wpt lat="41.925348" lon="-87.6552855">
+			<name>TP001</name>
+		</wpt>
+		
+		<wpt lat="41.92535" lon="-87.6548">
+			<name>TP002</name>
+		</wpt>
+		
+		<wpt lat="41.92536" lon="-87.65448">
+			<name>TP003</name>
+		</wpt>
+		
+		<wpt lat="41.92537" lon="-87.65399">
+			<name>TP004</name>
+		</wpt>
+		
+		<wpt lat="41.92537" lon="-87.65361">
+			<name>TP005</name>
+		</wpt>
+		
+		<wpt lat="41.9253735" lon="-87.6536115">
+			<name>TP006</name>
+		</wpt>
+		
+		<wpt lat="41.92572" lon="-87.65363">
+			<name>TP007</name>
+		</wpt>
+		
+		<wpt lat="41.92585" lon="-87.65363">
+			<name>TP008</name>
+		</wpt>
+		
+		<wpt lat="41.9259" lon="-87.65363">
+			<name>TP009</name>
+		</wpt>
+		
+		<wpt lat="41.92618" lon="-87.65365">
+			<name>TP010</name>
+		</wpt>
+		
+		<wpt lat="41.92634" lon="-87.65365">
+			<name>TP011</name>
+		</wpt>
+		
+		<wpt lat="41.92677" lon="-87.65366">
+			<name>TP012</name>
+		</wpt>
+		
+		<wpt lat="41.92719" lon="-87.65367">
+			<name>TP013</name>
+		</wpt>
+		
+		<wpt lat="41.92764" lon="-87.65369">
+			<name>TP014</name>
+		</wpt>
+		
+		<wpt lat="41.92809" lon="-87.65371">
+			<name>TP015</name>
+		</wpt>
+		
+		<wpt lat="41.92825" lon="-87.65371">
+			<name>TP016</name>
+		</wpt>
+		
+		<wpt lat="41.929" lon="-87.65373">
+			<name>TP017</name>
+		</wpt>
+		
+		<wpt lat="41.93082" lon="-87.6538">
+			<name>TP018</name>
+		</wpt>
+		
+		<wpt lat="41.93095" lon="-87.6538">
+			<name>TP019</name>
+		</wpt>
+		
+		<wpt lat="41.93122" lon="-87.65381">
+			<name>TP020</name>
+		</wpt>
+		
+		<wpt lat="41.93218" lon="-87.65384">
+			<name>TP021</name>
+		</wpt>
+		
+		<wpt lat="41.93263" lon="-87.65386">
+			<name>TP022</name>
+		</wpt>
+		
+		<wpt lat="41.93309" lon="-87.65388">
+			<name>TP023</name>
+		</wpt>
+		
+		<wpt lat="41.93353" lon="-87.6539">
+			<name>TP024</name>
+		</wpt>
+		
+		<wpt lat="41.93445" lon="-87.65392">
+			<name>TP025</name>
+		</wpt>
+		
+		<wpt lat="41.93535" lon="-87.65395">
+			<name>TP026</name>
+		</wpt>
+		
+		<wpt lat="41.93627" lon="-87.65398">
+			<name>TP027</name>
+		</wpt>
+		
+		<wpt lat="41.93717" lon="-87.65402">
+			<name>TP028</name>
+		</wpt>
+		
+		<wpt lat="41.93808" lon="-87.65406">
+			<name>TP029</name>
+		</wpt>
+		
+		<wpt lat="41.93854" lon="-87.65408">
+			<name>TP030</name>
+		</wpt>
+		
+		<wpt lat="41.93894" lon="-87.65409">
+			<name>TP031</name>
+		</wpt>
+		
+		<wpt lat="41.93936" lon="-87.6541">
+			<name>TP032</name>
+		</wpt>
+		
+		<wpt lat="41.93943" lon="-87.6541">
+			<name>TP033</name>
+		</wpt>
+		
+		<wpt lat="41.93951" lon="-87.6541">
+			<name>TP034</name>
+		</wpt>
+		
+		<wpt lat="41.93958" lon="-87.6541">
+			<name>TP035</name>
+		</wpt>
+		
+		<wpt lat="41.93965" lon="-87.6541">
+			<name>TP036</name>
+		</wpt>
+		
+		<wpt lat="41.9399" lon="-87.6541">
+			<name>TP037</name>
+		</wpt>
+		
+		<wpt lat="41.94173" lon="-87.65416">
+			<name>TP038</name>
+		</wpt>
+		
+		<wpt lat="41.94358" lon="-87.65422">
+			<name>TP039</name>
+		</wpt>
+		
+		<wpt lat="41.94444" lon="-87.65428">
+			<name>TP040</name>
+		</wpt>
+		
+		<wpt lat="41.9445" lon="-87.65432">
+			<name>TP041</name>
+		</wpt>
+		
+		<wpt lat="41.944501" lon="-87.6543209">
+			<name>TP042</name>
+		</wpt>
+		
+		<wpt lat="41.94454" lon="-87.6543">
+			<name>TP043</name>
+		</wpt>
+		
+		<wpt lat="41.94457" lon="-87.65429">
+			<name>TP044</name>
+		</wpt>
+		
+		<wpt lat="41.9446" lon="-87.65429">
+			<name>TP045</name>
+		</wpt>
+		
+		<wpt lat="41.94464" lon="-87.65428">
+			<name>TP046</name>
+		</wpt>
+		
+		<wpt lat="41.94509" lon="-87.65427">
+			<name>TP047</name>
+		</wpt>
+		
+		<wpt lat="41.94539" lon="-87.65427">
+			<name>TP048</name>
+		</wpt>
+		
+		<wpt lat="41.94577" lon="-87.65428">
+			<name>TP049</name>
+		</wpt>
+		
+		<wpt lat="41.94723" lon="-87.65434">
+			<name>TP050</name>
+		</wpt>
+		
+		<wpt lat="41.9477" lon="-87.65435">
+			<name>TP051</name>
+		</wpt>
+		
+		<wpt lat="41.94904" lon="-87.6544">
+			<name>TP052</name>
+		</wpt>
+		
+		<wpt lat="41.9490397" lon="-87.654397">
+			<name>TP053</name>
+		</wpt>
+		
+		<wpt lat="41.94902" lon="-87.65535">
+			<name>TP054</name>
+		</wpt>
+		
+		<wpt lat="41.949021" lon="-87.6553533">
+			<name>TP055</name>
+		</wpt>
+	
+	
+	
+
+    
+</gpx>
